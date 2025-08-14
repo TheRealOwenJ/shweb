@@ -1,0 +1,25 @@
+Thereal License (c) 2025 TheRealOwenJ
+
+1. Permitted Use
+   - Anyone may copy, modify, fork, and distribute this project.
+   - Modifications are allowed, including for commercial purposes.
+
+2. Attribution
+   - All derivative works or forks must clearly state that they are based on this project.
+   - For example, in the README or documentation:
+     "This project is based on <ProjectName> (link to original repository)"
+
+3. Protection of Installation/Build Files
+   - Specific installation or build files (e.g., SHBUILD, BUILD, or other encrypted/permuted scripts) may not be used or executed directly outside of their intended installation process or client.
+   - After proper installation, scripts may be locally modified and executed freely.
+
+4. Client / Core Code
+   - The client or core code responsible for installation/build may be freely used, modified, and redistributed under a permissive license (e.g., MIT or Apache 2.0).
+
+5. Disclaimer of Warranty
+   - The project is provided "as-is," without any warranty.
+   - The author is not responsible for any damages or issues caused by the use of this software.
+
+6. Universal Applicability
+   - This license is intended to be valid worldwide, for all users and platforms.
+   - Other developers may reuse this license for their own projects by adapting the project name.
